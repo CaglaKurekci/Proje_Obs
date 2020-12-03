@@ -16,5 +16,5 @@ Temizle butonuyla ise veriler silinir.
 -Öğrenci İşlemleri;
 Öğrenci Bilgileriyle yeni öğrenci eklenebilir,listelenebilir,güncellenebilir ve silinebilir. Ara butonuyla ise isme göre arama sağlanabilir.
 
-*Projede Notlar,Dersler,Kulupler ve öğrenciler olmak üzere Mssql üzerinde 4 tablo tutulmuş ve ilişkilendirilmiştir.
-*Projenin bir kısmında DataSet kullanılmıştır.
+* Projede Notlar,Dersler,Kulupler ve öğrenciler olmak üzere Mssql üzerinde 4 tablo tutulmuş ve ilişkilendirilmiştir.
+- Projenin bir kısmında DataSet kullanılmıştır. -
