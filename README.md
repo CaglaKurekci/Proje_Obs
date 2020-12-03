@@ -1,4 +1,4 @@
-Proje Ufak bir otomasyon projesidir.
+Proje, küçük çaplı bir otomasyon projesidir.
 * Giriş panelinde Öğrenci ve Öğretmen olmak üzere iki farklı giriş vardır.
 - Öğrenci numarasıyla sisteme giriş sağlayabilir.
 
