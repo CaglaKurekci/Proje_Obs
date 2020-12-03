@@ -3,7 +3,7 @@ Proje Ufak bir otomasyon projesidir.
 -Öğrenci numarasıyla sisteme giriş sağlayabilir.
 
 * Öğrenci Panelinde;
--Öğrenci Tüm derslerden aldığı notları ve durumunu görüntüleyebilir.
+- Öğrenci Tüm derslerden aldığı notları ve durumunu görüntüleyebilir.
 
 * Öğretmen paneli 4 farklı buton seçeneğiyle gelmektedir;
 - Ders İşlemleri; 
