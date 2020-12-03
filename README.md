@@ -1,6 +1,6 @@
 Proje Ufak bir otomasyon projesidir.
 * Giriş panelinde Öğrenci ve Öğretmen olmak üzere iki farklı giriş vardır.
--Öğrenci numarasıyla sisteme giriş sağlayabilir.
+- Öğrenci numarasıyla sisteme giriş sağlayabilir.
 
 * Öğrenci Panelinde;
 - Öğrenci Tüm derslerden aldığı notları ve durumunu görüntüleyebilir.
