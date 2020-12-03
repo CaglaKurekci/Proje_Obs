@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Proje_Obs/Properties
+/Proje_Obs/obj/Debug
+/Proje_Obs/bin/Debug
+/.vs/Proje_Obs/v14
