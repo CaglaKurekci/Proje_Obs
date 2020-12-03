@@ -8,12 +8,12 @@ Proje, küçük çaplı bir otomasyon projesidir.
 * Öğretmen paneli 4 farklı buton seçeneğiyle gelmektedir;
 - Ders İşlemleri; 
 Öğretmen Ders görüntüleyebilir,ekleyebilir,güncelleyebilir ve silebilir.
--Kulüp İşlemleri;
+- Kulüp İşlemleri;
 Öğretmen Kulüp görüntüleyebilir,ekleyebilir,güncelleyebilir ve silebilir.
--Sınav Notları;
+- Sınav Notları;
 Öğretmen, Öğrenci id ile arama sağlayarak öğrencinin notlarını ve durumunu görüntüleyebilir. Öğretmen hesapla butonuyla öğrencinin ortamasını ve durumunu sistemde güncelleyebilir.
 Temizle butonuyla ise veriler silinir.
--Öğrenci İşlemleri;
+- Öğrenci İşlemleri;
 Öğrenci Bilgileriyle yeni öğrenci eklenebilir,listelenebilir,güncellenebilir ve silinebilir. Ara butonuyla ise isme göre arama sağlanabilir.
 
 * Projede Notlar,Dersler,Kulupler ve öğrenciler olmak üzere Mssql üzerinde 4 tablo tutulmuş ve ilişkilendirilmiştir.
